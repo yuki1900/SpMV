@@ -1,0 +1,3 @@
+﻿  csr.cpp
+C:\Program Files (x86)\Intel\oneAPI\mkl\2023.2.0\include\mkl_spblas.h(1149,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CUDA_CSRspmv.vcxproj -> D:\Code With VS\CSRspmv\CUDA_CSRspmv\x64\Debug\CUDA_CSRspmv.exe

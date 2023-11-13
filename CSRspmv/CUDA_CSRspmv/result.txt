@@ -1,0 +1,1101 @@
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\1138_bus.mtx
+4064
+time: 2.01528e-05
+bandwidth: 1613.27
+GFlops: 0.403319
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\130bit.mtx
+6128
+time: 2.27447e-05
+bandwidth: 2155.4
+GFlops: 0.538851
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\144.mtx
+2148800
+time: 6.40444e-05
+bandwidth: 268414
+GFlops: 67.1035
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\145bit.mtx
+11328
+time: 1.67703e-05
+bandwidth: 5403.83
+GFlops: 1.35096
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\162bit.mtx
+37120
+time: 1.55135e-05
+bandwidth: 19142
+GFlops: 4.7855
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\176bit.mtx
+82272
+time: 1.59198e-05
+bandwidth: 41343.2
+GFlops: 10.3358
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\192bit.mtx
+154304
+time: 1.49066e-05
+bandwidth: 82811.1
+GFlops: 20.7028
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\208bit.mtx
+299760
+time: 1.90013e-05
+bandwidth: 126206
+GFlops: 31.5515
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\2cubes_sphere.mtx
+1647264
+time: 4.58489e-05
+bandwidth: 287425
+GFlops: 71.8562
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\2D_27628_bjtcai.mtx
+442912
+time: 2.36349e-05
+bandwidth: 149918
+GFlops: 37.4794
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\2D_54019_highK.mtx
+996416
+time: 3.51806e-05
+bandwidth: 226583
+GFlops: 56.6457
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\3dtube.mtx
+3213632
+time: 8.16659e-05
+bandwidth: 314808
+GFlops: 78.702
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\3D_28984_Tetra.mtx
+599184
+time: 3.04226e-05
+bandwidth: 157563
+GFlops: 39.3908
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\3D_51448_3D.mtx
+1056624
+time: 3.73906e-05
+bandwidth: 226073
+GFlops: 56.5182
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\3elt.mtx
+27456
+time: 1.6323e-05
+bandwidth: 13456.4
+GFlops: 3.36409
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\3elt_dual.mtx
+26560
+time: 1.60896e-05
+bandwidth: 13206.1
+GFlops: 3.30152
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\494_bus.mtx
+1680
+time: 1.51549e-05
+bandwidth: 886.842
+GFlops: 0.22171
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\598a.mtx
+1483872
+time: 4.88501e-05
+bandwidth: 243008
+GFlops: 60.752
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\662_bus.mtx
+2480
+time: 1.69853e-05
+bandwidth: 1168.07
+GFlops: 0.292017
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\685_bus.mtx
+3264
+time: 1.29672e-05
+bandwidth: 2013.7
+GFlops: 0.503425
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\a0nsdsil.mtx
+355040
+time: 1.90552e-05
+bandwidth: 149057
+GFlops: 37.2644
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\a2nnsnsl.mtx
+347232
+time: 2.30906e-05
+bandwidth: 120303
+GFlops: 30.0757
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\a5esindl.mtx
+255008
+time: 1.81811e-05
+bandwidth: 112208
+GFlops: 28.0519
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aa01.mtx
+72976
+time: 1.68694e-05
+bandwidth: 34607.5
+GFlops: 8.65188
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aa03.mtx
+70816
+time: 1.49247e-05
+bandwidth: 37959.1
+GFlops: 9.48977
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aa3.mtx
+70816
+time: 1.58992e-05
+bandwidth: 35632.6
+GFlops: 8.90814
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aa4.mtx
+52128
+time: 1.63553e-05
+bandwidth: 25497.7
+GFlops: 6.37443
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aa5.mtx
+65968
+time: 1.54657e-05
+bandwidth: 34123.4
+GFlops: 8.53086
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aa6.mtx
+51728
+time: 1.58692e-05
+bandwidth: 26077.2
+GFlops: 6.5193
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ABACUS_shell_hd.mtx
+218496
+time: 2.02727e-05
+bandwidth: 86222.6
+GFlops: 21.5557
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ABACUS_shell_ld.mtx
+218496
+time: 1.83584e-05
+bandwidth: 95213.7
+GFlops: 23.8034
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ABACUS_shell_md.mtx
+218496
+time: 2.00283e-05
+bandwidth: 87274.9
+GFlops: 21.8187
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ABACUS_shell_ud.mtx
+218496
+time: 1.65498e-05
+bandwidth: 105619
+GFlops: 26.4047
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\abb313.mtx
+1568
+time: 1.73418e-05
+bandwidth: 723.339
+GFlops: 0.180835
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\abtaha1.mtx
+51312
+time: 1.49682e-05
+bandwidth: 27424.5
+GFlops: 6.85614
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\abtaha2.mtx
+137232
+time: 1.6199e-05
+bandwidth: 67773.1
+GFlops: 16.9433
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ACTIVSg10K.mtx
+137744
+time: 1.66441e-05
+bandwidth: 66206.6
+GFlops: 16.5517
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ACTIVSg2000.mtx
+29344
+time: 1.51593e-05
+bandwidth: 15485.7
+GFlops: 3.87142
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ACTIVSg70K.mtx
+238640
+time: 2.30412e-05
+bandwidth: 82856.8
+GFlops: 20.7142
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\add20.mtx
+17328
+time: 1.62134e-05
+bandwidth: 8549.95
+GFlops: 2.13749
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\add32.mtx
+23888
+time: 1.53547e-05
+bandwidth: 12445.9
+GFlops: 3.11148
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_01.mtx
+11168
+time: 1.39095e-05
+bandwidth: 6423.25
+GFlops: 1.60581
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_02.mtx
+11248
+time: 1.57644e-05
+bandwidth: 5708.05
+GFlops: 1.42701
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_03.mtx
+11152
+time: 1.45613e-05
+bandwidth: 6126.91
+GFlops: 1.53173
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_04.mtx
+11120
+time: 1.60253e-05
+bandwidth: 5551.21
+GFlops: 1.3878
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_05.mtx
+11104
+time: 1.50142e-05
+bandwidth: 5916.53
+GFlops: 1.47913
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_06.mtx
+11232
+time: 1.45642e-05
+bandwidth: 6169.65
+GFlops: 1.54241
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_07.mtx
+11232
+time: 1.63583e-05
+bandwidth: 5493
+GFlops: 1.37325
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_08.mtx
+11248
+time: 1.52433e-05
+bandwidth: 5903.17
+GFlops: 1.47579
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_09.mtx
+11248
+time: 1.7353e-05
+bandwidth: 5185.51
+GFlops: 1.29638
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_10.mtx
+11232
+time: 1.5537e-05
+bandwidth: 5783.34
+GFlops: 1.44584
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_11.mtx
+11248
+time: 1.56272e-05
+bandwidth: 5758.18
+GFlops: 1.43954
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_12.mtx
+11248
+time: 1.57833e-05
+bandwidth: 5701.2
+GFlops: 1.4253
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_13.mtx
+11248
+time: 1.47321e-05
+bandwidth: 6108.04
+GFlops: 1.52701
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_14.mtx
+11248
+time: 1.47091e-05
+bandwidth: 6117.56
+GFlops: 1.52939
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_15.mtx
+11248
+time: 1.61493e-05
+bandwidth: 5571.99
+GFlops: 1.393
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_16.mtx
+11248
+time: 1.53488e-05
+bandwidth: 5862.61
+GFlops: 1.46565
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_17.mtx
+11248
+time: 1.6405e-05
+bandwidth: 5485.17
+GFlops: 1.37129
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_18.mtx
+11248
+time: 1.67007e-05
+bandwidth: 5388.05
+GFlops: 1.34701
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_19.mtx
+11248
+time: 1.57676e-05
+bandwidth: 5706.9
+GFlops: 1.42673
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_20.mtx
+11248
+time: 1.47316e-05
+bandwidth: 6108.23
+GFlops: 1.52706
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_21.mtx
+11248
+time: 1.32496e-05
+bandwidth: 6791.47
+GFlops: 1.69787
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_22.mtx
+11248
+time: 1.31522e-05
+bandwidth: 6841.73
+GFlops: 1.71043
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_23.mtx
+11248
+time: 1.39169e-05
+bandwidth: 6465.82
+GFlops: 1.61646
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_24.mtx
+11248
+time: 1.56289e-05
+bandwidth: 5757.55
+GFlops: 1.43939
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_25.mtx
+11248
+time: 1.25785e-05
+bandwidth: 7153.81
+GFlops: 1.78845
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_26.mtx
+11248
+time: 1.38247e-05
+bandwidth: 6508.93
+GFlops: 1.62723
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_27.mtx
+11248
+time: 1.43119e-05
+bandwidth: 6287.37
+GFlops: 1.57184
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_28.mtx
+11248
+time: 1.28776e-05
+bandwidth: 6987.62
+GFlops: 1.7469
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_29.mtx
+11248
+time: 1.39418e-05
+bandwidth: 6454.26
+GFlops: 1.61356
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_30.mtx
+11248
+time: 1.55503e-05
+bandwidth: 5786.65
+GFlops: 1.44666
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_31.mtx
+11248
+time: 1.5255e-05
+bandwidth: 5898.64
+GFlops: 1.47466
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_32.mtx
+11248
+time: 1.46773e-05
+bandwidth: 6130.81
+GFlops: 1.5327
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_33.mtx
+11248
+time: 1.32461e-05
+bandwidth: 6793.23
+GFlops: 1.69831
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_34.mtx
+11248
+time: 1.52247e-05
+bandwidth: 5910.38
+GFlops: 1.4776
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_35.mtx
+11248
+time: 1.32928e-05
+bandwidth: 6769.36
+GFlops: 1.69234
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_36.mtx
+11248
+time: 1.4913e-05
+bandwidth: 6033.92
+GFlops: 1.50848
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_37.mtx
+11248
+time: 1.48048e-05
+bandwidth: 6078.04
+GFlops: 1.51951
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_38.mtx
+11248
+time: 1.45096e-05
+bandwidth: 6201.67
+GFlops: 1.55042
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_39.mtx
+11248
+time: 1.53835e-05
+bandwidth: 5849.37
+GFlops: 1.46234
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_40.mtx
+11248
+time: 1.42715e-05
+bandwidth: 6305.17
+GFlops: 1.57629
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_41.mtx
+11248
+time: 1.51825e-05
+bandwidth: 5926.81
+GFlops: 1.4817
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_42.mtx
+11248
+time: 1.42951e-05
+bandwidth: 6294.73
+GFlops: 1.57368
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_43.mtx
+11248
+time: 1.42332e-05
+bandwidth: 6322.12
+GFlops: 1.58053
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_44.mtx
+11248
+time: 1.47325e-05
+bandwidth: 6107.86
+GFlops: 1.52696
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_45.mtx
+11248
+time: 1.39989e-05
+bandwidth: 6427.93
+GFlops: 1.60698
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_46.mtx
+11248
+time: 1.51786e-05
+bandwidth: 5928.36
+GFlops: 1.48209
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_47.mtx
+11248
+time: 1.55289e-05
+bandwidth: 5794.62
+GFlops: 1.44865
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_48.mtx
+11248
+time: 1.43116e-05
+bandwidth: 6287.5
+GFlops: 1.57188
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_49.mtx
+11248
+time: 1.48182e-05
+bandwidth: 6072.55
+GFlops: 1.51814
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_50.mtx
+11248
+time: 1.28213e-05
+bandwidth: 7018.34
+GFlops: 1.75458
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_51.mtx
+11248
+time: 1.60984e-05
+bandwidth: 5589.64
+GFlops: 1.39741
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_52.mtx
+11248
+time: 1.37108e-05
+bandwidth: 6562.99
+GFlops: 1.64075
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_53.mtx
+11248
+time: 1.43721e-05
+bandwidth: 6261.02
+GFlops: 1.56525
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_54.mtx
+11248
+time: 1.52734e-05
+bandwidth: 5891.54
+GFlops: 1.47288
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_55.mtx
+11248
+time: 1.33483e-05
+bandwidth: 6741.22
+GFlops: 1.6853
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_56.mtx
+11248
+time: 1.33585e-05
+bandwidth: 6736.1
+GFlops: 1.68403
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_57.mtx
+11248
+time: 1.45356e-05
+bandwidth: 6190.59
+GFlops: 1.54765
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_58.mtx
+11248
+time: 1.5299e-05
+bandwidth: 5881.69
+GFlops: 1.47042
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_59.mtx
+11248
+time: 1.45361e-05
+bandwidth: 6190.4
+GFlops: 1.5476
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_60.mtx
+11248
+time: 1.46373e-05
+bandwidth: 6147.57
+GFlops: 1.53689
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_61.mtx
+11248
+time: 1.66315e-05
+bandwidth: 5410.46
+GFlops: 1.35261
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_62.mtx
+11248
+time: 1.32393e-05
+bandwidth: 6796.72
+GFlops: 1.69918
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_63.mtx
+11248
+time: 1.65342e-05
+bandwidth: 5442.28
+GFlops: 1.36057
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_64.mtx
+11248
+time: 1.46028e-05
+bandwidth: 6162.11
+GFlops: 1.54053
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_65.mtx
+11248
+time: 1.45115e-05
+bandwidth: 6200.86
+GFlops: 1.55022
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_66.mtx
+11248
+time: 1.39348e-05
+bandwidth: 6457.5
+GFlops: 1.61438
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_67.mtx
+11248
+time: 1.5637e-05
+bandwidth: 5754.54
+GFlops: 1.43864
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_68.mtx
+11248
+time: 1.43575e-05
+bandwidth: 6267.39
+GFlops: 1.56685
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_dcop_69.mtx
+11248
+time: 1.3858e-05
+bandwidth: 6493.27
+GFlops: 1.62332
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_trans_01.mtx
+14592
+time: 1.49126e-05
+bandwidth: 7827.99
+GFlops: 1.957
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adder_trans_02.mtx
+14592
+time: 1.37298e-05
+bandwidth: 8502.38
+GFlops: 2.1256
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\adjnoun.mtx
+864
+time: 1.28675e-05
+bandwidth: 537.169
+GFlops: 0.134292
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af23560.mtx
+484256
+time: 2.16711e-05
+bandwidth: 178766
+GFlops: 44.6915
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aft01.mtx
+125568
+time: 1.50341e-05
+bandwidth: 66817.8
+GFlops: 16.7045
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aft02.mtx
+127776
+time: 1.48242e-05
+bandwidth: 68955.5
+GFlops: 17.2389
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_0_k101.mtx
+17550688
+time: 0.000340912
+bandwidth: 411853
+GFlops: 102.963
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_1_k101.mtx
+17550688
+time: 0.000344263
+bandwidth: 407843
+GFlops: 101.961
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_2_k101.mtx
+17550688
+time: 0.000341914
+bandwidth: 410646
+GFlops: 102.661
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_3_k101.mtx
+17550688
+time: 0.000343311
+bandwidth: 408975
+GFlops: 102.244
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_4_k101.mtx
+17550688
+time: 0.000343141
+bandwidth: 409177
+GFlops: 102.294
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_5_k101.mtx
+17550688
+time: 0.000340787
+bandwidth: 412003
+GFlops: 103.001
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell1.mtx
+17588880
+time: 0.000344158
+bandwidth: 408856
+GFlops: 102.214
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell10.mtx
+52672336
+time: 0.000999231
+bandwidth: 421703
+GFlops: 105.426
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell2.mtx
+17588880
+time: 0.000336061
+bandwidth: 418707
+GFlops: 104.677
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell3.mtx
+17588880
+time: 0.00034146
+bandwidth: 412086
+GFlops: 103.022
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell4.mtx
+17588880
+time: 0.000339042
+bandwidth: 415025
+GFlops: 103.756
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell5.mtx
+17588880
+time: 0.000339568
+bandwidth: 414382
+GFlops: 103.596
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell6.mtx
+17588880
+time: 0.000339358
+bandwidth: 414639
+GFlops: 103.66
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell7.mtx
+17588880
+time: 0.000344614
+bandwidth: 408315
+GFlops: 102.079
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell8.mtx
+17588880
+time: 0.000340933
+bandwidth: 412723
+GFlops: 103.181
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\af_shell9.mtx
+17588880
+time: 0.000340896
+bandwidth: 412768
+GFlops: 103.192
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\air02.mtx
+61568
+time: 1.40922e-05
+bandwidth: 34951.5
+GFlops: 8.73788
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\air03.mtx
+91040
+time: 1.53065e-05
+bandwidth: 47582.3
+GFlops: 11.8956
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\air04.mtx
+72976
+time: 1.87405e-05
+bandwidth: 31152.2
+GFlops: 7.78805
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\air05.mtx
+52128
+time: 1.58465e-05
+bandwidth: 26316.5
+GFlops: 6.57913
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\air06.mtx
+70816
+time: 1.4701e-05
+bandwidth: 38536.6
+GFlops: 9.63415
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aircraft.mtx
+20272
+time: 1.49673e-05
+bandwidth: 10835.3
+GFlops: 2.70883
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\airfoil1.mtx
+24592
+time: 1.54095e-05
+bandwidth: 12767.2
+GFlops: 3.1918
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\airfoil1_dual.mtx
+23632
+time: 1.47981e-05
+bandwidth: 12775.7
+GFlops: 3.19393
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\airfoil_2d.mtx
+259696
+time: 1.92279e-05
+bandwidth: 108049
+GFlops: 27.0124
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ak2010.mtx
+217104
+time: 1.87954e-05
+bandwidth: 92407.1
+GFlops: 23.1018
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\al2010.mtx
+1230496
+time: 4.17791e-05
+bandwidth: 235620
+GFlops: 58.9049
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\Alemdar.mtx
+42592
+time: 1.62588e-05
+bandwidth: 20957
+GFlops: 5.23926
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\amazon-2008.mtx
+5158400
+time: 0.000121845
+bandwidth: 338687
+GFlops: 84.6716
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\amazon0302.mtx
+1234880
+time: 4.03299e-05
+bandwidth: 244956
+GFlops: 61.2389
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\amazon0312.mtx
+3200448
+time: 8.15891e-05
+bandwidth: 313811
+GFlops: 78.4528
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\amazon0505.mtx
+3356832
+time: 8.4863e-05
+bandwidth: 316447
+GFlops: 79.1118
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\amazon0601.mtx
+3387392
+time: 8.44165e-05
+bandwidth: 321017
+GFlops: 80.2543
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\analytics.mtx
+2006128
+time: 8.2512e-05
+bandwidth: 194505
+GFlops: 48.6263
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\Andrews.mtx
+760160
+time: 3.03214e-05
+bandwidth: 200561
+GFlops: 50.1402
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\apache1.mtx
+542192
+time: 2.27931e-05
+bandwidth: 190301
+GFlops: 47.5752
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\apache2.mtx
+4817872
+time: 0.000173122
+bandwidth: 222635
+GFlops: 55.6586
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\appu.mtx
+1853104
+time: 5.08461e-05
+bandwidth: 291563
+GFlops: 72.8907
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ar2010.mtx
+904320
+time: 3.36256e-05
+bandwidth: 215151
+GFlops: 53.7876
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\arc130.mtx
+1296
+time: 1.44325e-05
+bandwidth: 718.379
+GFlops: 0.179595
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\as-22july06.mtx
+96880
+time: 1.49338e-05
+bandwidth: 51898.4
+GFlops: 12.9746
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\as-735.mtx
+26480
+time: 1.46881e-05
+bandwidth: 14422.6
+GFlops: 3.60565
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\as-Skitter.mtx
+22190608
+time: 0.000445614
+bandwidth: 398382
+GFlops: 99.5956
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ash219.mtx
+448
+time: 1.35209e-05
+bandwidth: 265.072
+GFlops: 0.0662679
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ash292.mtx
+2208
+time: 1.4287e-05
+bandwidth: 1236.37
+GFlops: 0.309092
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ash331.mtx
+672
+time: 1.46872e-05
+bandwidth: 366.032
+GFlops: 0.091508
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ash608.mtx
+1216
+time: 1.39355e-05
+bandwidth: 698.072
+GFlops: 0.174518
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ash85.mtx
+528
+time: 1.32041e-05
+bandwidth: 319.9
+GFlops: 0.079975
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ash958.mtx
+1920
+time: 1.3857e-05
+bandwidth: 1108.47
+GFlops: 0.277117
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ASIC_100k.mtx
+954176
+time: 2.89148e-05
+bandwidth: 263997
+GFlops: 65.9991
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ASIC_100ks.mtx
+578896
+time: 2.4362e-05
+bandwidth: 190098
+GFlops: 47.5245
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ASIC_320k.mtx
+2635376
+time: 6.98426e-05
+bandwidth: 301865
+GFlops: 75.4661
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ASIC_320ks.mtx
+1827808
+time: 5.32282e-05
+bandwidth: 274713
+GFlops: 68.6782
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ASIC_680k.mtx
+3871776
+time: 9.78324e-05
+bandwidth: 316605
+GFlops: 79.1512
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\ASIC_680ks.mtx
+2329184
+time: 7.05603e-05
+bandwidth: 264079
+GFlops: 66.0196
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\astro-ph.mtx
+242512
+time: 1.88362e-05
+bandwidth: 102998
+GFlops: 25.7496
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aug2d.mtx
+76832
+time: 1.46395e-05
+bandwidth: 41986
+GFlops: 10.4965
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aug2dc.mtx
+80000
+time: 1.45312e-05
+bandwidth: 44043.1
+GFlops: 11.0108
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aug3d.mtx
+69984
+time: 1.53079e-05
+bandwidth: 36574
+GFlops: 9.14349
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\aug3dcqp.mtx
+128128
+time: 1.45024e-05
+bandwidth: 70679.6
+GFlops: 17.6699
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\auto.mtx
+6629232
+time: 0.000150001
+bandwidth: 353558
+GFlops: 88.3894
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\av41092.mtx
+1683904
+time: 4.19143e-05
+bandwidth: 321400
+GFlops: 80.3499
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\az2010.mtx
+1196096
+time: 4.01941e-05
+bandwidth: 238064
+GFlops: 59.516
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\b1_ss.mtx
+16
+time: 1.18435e-05
+bandwidth: 10.8076
+GFlops: 0.0027019
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\b2_ss.mtx
+4240
+time: 1.27584e-05
+bandwidth: 2658.65
+GFlops: 0.664662
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-1.mtx
+3805072
+time: 8.7446e-05
+bandwidth: 348107
+GFlops: 87.0268
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-10.mtx
+3897568
+time: 8.68814e-05
+bandwidth: 358886
+GFlops: 89.7216
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-11.mtx
+3897568
+time: 8.94848e-05
+bandwidth: 348445
+GFlops: 87.1113
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-12.mtx
+3897568
+time: 8.98796e-05
+bandwidth: 346914
+GFlops: 86.7286
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-2.mtx
+3805072
+time: 8.6804e-05
+bandwidth: 350682
+GFlops: 87.6704
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-3.mtx
+3805072
+time: 8.63671e-05
+bandwidth: 352456
+GFlops: 88.114
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-4.mtx
+3805072
+time: 8.57712e-05
+bandwidth: 354904
+GFlops: 88.7261
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barrier2-9.mtx
+3897568
+time: 8.55356e-05
+bandwidth: 364533
+GFlops: 91.1333
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barth.mtx
+46192
+time: 1.48116e-05
+bandwidth: 24949.1
+GFlops: 6.23727
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barth4.mtx
+40976
+time: 1.62954e-05
+bandwidth: 20116.6
+GFlops: 5.02915
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\barth5.mtx
+107376
+time: 1.50257e-05
+bandwidth: 57169.1
+GFlops: 14.2923
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bas1lp.mtx
+587776
+time: 2.59541e-05
+bandwidth: 181174
+GFlops: 45.2935
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\Baumann.mtx
+760640
+time: 2.82831e-05
+bandwidth: 215151
+GFlops: 53.7877
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bauru5727.mtx
+145024
+time: 1.55585e-05
+bandwidth: 74569.8
+GFlops: 18.6425
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\baxter.mtx
+111584
+time: 1.42571e-05
+bandwidth: 62612.5
+GFlops: 15.6531
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer01.mtx
+277776
+time: 2.03324e-05
+bandwidth: 109294
+GFlops: 27.3234
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer02.mtx
+63680
+time: 1.51276e-05
+bandwidth: 33676.1
+GFlops: 8.41903
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer03.mtx
+56208
+time: 1.41994e-05
+bandwidth: 31667.9
+GFlops: 7.91697
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer04.mtx
+159088
+time: 1.55724e-05
+bandwidth: 81728.4
+GFlops: 20.4321
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer05.mtx
+27840
+time: 1.43436e-05
+bandwidth: 15527.4
+GFlops: 3.88186
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer06.mtx
+27584
+time: 1.53264e-05
+bandwidth: 14398.1
+GFlops: 3.59953
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer07.mtx
+27840
+time: 1.47711e-05
+bandwidth: 15078.1
+GFlops: 3.76953
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer08.mtx
+27584
+time: 1.54268e-05
+bandwidth: 14304.5
+GFlops: 3.57611
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer09.mtx
+21216
+time: 1.52369e-05
+bandwidth: 11139.3
+GFlops: 2.78482
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bayer10.mtx
+94928
+time: 1.47595e-05
+bandwidth: 51453.2
+GFlops: 12.8633
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bbmat.mtx
+1771728
+time: 4.92333e-05
+bandwidth: 287891
+GFlops: 71.9728
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcircuit.mtx
+375568
+time: 2.32785e-05
+bandwidth: 129070
+GFlops: 32.2674
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr01.mtx
+144
+time: 1.31392e-05
+bandwidth: 87.6768
+GFlops: 0.0219192
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr02.mtx
+176
+time: 1.20757e-05
+bandwidth: 116.598
+GFlops: 0.0291495
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr03.mtx
+480
+time: 1.20371e-05
+bandwidth: 319.013
+GFlops: 0.0797532
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr04.mtx
+1616
+time: 1.60596e-05
+bandwidth: 805.003
+GFlops: 0.201251
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr05.mtx
+1632
+time: 1.41454e-05
+bandwidth: 922.986
+GFlops: 0.230746
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr06.mtx
+5312
+time: 1.47468e-05
+bandwidth: 2881.7
+GFlops: 0.720426
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr07.mtx
+5824
+time: 1.45475e-05
+bandwidth: 3202.74
+GFlops: 0.800686
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr08.mtx
+6064
+time: 1.46814e-05
+bandwidth: 3304.32
+GFlops: 0.826081
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr09.mtx
+6512
+time: 1.46546e-05
+bandwidth: 3554.92
+GFlops: 0.888731
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcspwr10.mtx
+21856
+time: 1.42151e-05
+bandwidth: 12300.1
+GFlops: 3.07503
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcsstk01.mtx
+400
+time: 1.16693e-05
+bandwidth: 274.223
+GFlops: 0.0685558
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\bcsstk02.mtx
+4368
+CUSPARSE API failed at line 530 with error: invalid value (3)
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\1138_bus.mtx
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\130bit.mtx
+Matrix Name: D:\Code With VS\CSRspmv\CUDA_CSRspmv\matrix_mtx\144.mtx
