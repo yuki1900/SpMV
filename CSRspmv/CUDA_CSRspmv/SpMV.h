@@ -220,6 +220,7 @@ int spmv_csr_mkl_merge(std::string filename, int nr, int nc, int nnz, int* Aj, i
         std::cout << "mkl time: " << avg_time << "\tBW: " << 1.0e-9 * nnz * 8 / (consume / times) << "\tGF: " << 1.0e-9 * 2 * nnz / (consume / times) << std::endl;
     }
 
+    std::cout << "Test" << std::endl;
 
     return 1;
 }
